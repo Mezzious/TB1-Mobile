@@ -151,7 +151,7 @@ class _LoginPageState extends State<LoginPage> {
               decoration: InputDecoration(
                   border: OutlineInputBorder(),
                   labelText: 'Email',
-                  hintText: 'dimaskhalik77@gmail.com'),
+                  hintText: 'ahmadfadil1374@gmail.com'),
             ),
           ),
           const Padding(
